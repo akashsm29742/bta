@@ -1,16 +1,29 @@
 {
   "name": "bta",
   "version": "1.0.0",
-  "description": "",
+  "description": "bta",
   "main": "server.js",
-  "dependencies": {
-    "nodemailer": "^0.7.1"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node server.js",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashsm29742/bta.git"
+  },
   "author": "groei",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashsm29742/bta/issues"
+  },
+  "homepage": "https://github.com/akashsm29742/bta#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "express-subdomain": "^1.0.5",
+    "mongoose": "^5.6.11",
+    "mongoose-auto-increment": "^5.0.1",
+    "morgan": "^1.9.1",
+    "nodemailer": "^6.3.0"
+  }
 }
