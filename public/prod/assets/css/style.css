@@ -904,6 +904,7 @@ Nav Menu style
 .service-banner,
 .model-banner,
 .contact-banner,
+.program-banner,
 .about-banner,
 .blog-banner,
 .home{
@@ -918,6 +919,9 @@ Nav Menu style
 }
 .model-banner{
     background-image: url(../images/background/trainers-31.jpg);
+}
+.program-banner{
+    background-image: url(../images/background/programmes.jpg);
 }
 .contact-banner{
     background: url(../images/background/contact-bg.jpg) no-repeat bottom center;
