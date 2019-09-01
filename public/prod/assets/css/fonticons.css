@@ -279,9 +279,9 @@
 .icofont-ban:before {
 	content: "\ef74";
 }
-.icofont-bank:before {
+/* .icofont-bank:before {
 	content: "\ef75";
-}
+} */
 .icofont-bar-code:before {
 	content: "\ef76";
 }

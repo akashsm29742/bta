@@ -945,9 +945,9 @@ th {
 .glyphicon-duplicate:before {
   content: "\e224";
 }
-.glyphicon-piggy-bank:before {
+/* .glyphicon-piggy-bank:before {
   content: "\e225";
-}
+} */
 .glyphicon-scissors:before {
   content: "\e226";
 }
